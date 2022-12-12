@@ -1,0 +1,10 @@
+>MBS3131989.1 TCP-1/cpn60 chaperonin family protein [Candidatus Woesearchaeota archaeon]
+VKNAKIALVARE
+>WP_160871018.1 FGGY-family carbohydrate kinase [Shinella sp. AETb1-6]
+VIDIGKTNAKVALVARES
+>WP_134650126.1 FGGY-family carbohydrate kinase [Shinella sumterensis]
+VIDIGKTNAKVALVARES
+>MBK9253950.1 T9SS-dependent M36 family metallopeptidase [Saprospiraceae bacterium]
+INSKIALIDRGSC
+>MCB1584601.1 hypothetical protein [Xanthomonadales bacterium]
+INGKIALIERGSCN
